@@ -2,6 +2,9 @@
 
 Blog personal de Dante Zulli. Hecho con [Hugo](https://gohugo.io/) + tema [Bear Cub](https://github.com/clente/hugo-bearcub).
 
+El contenido vive en Markdown bajo `content/`. Deploy en Cloudflare Pages
+desde `public/` (ver `wrangler.jsonc`).
+
 ## Comandos
 
 | Comando | Qué hace |
@@ -41,3 +44,15 @@ i18n/                      # Traducciones (es.toml)
 ## Performance
 
 Link a [Google PageSpeed Insights](https://pagespeed.web.dev/)
+
+## Deploy (Cloudflare Pages)
+
+- Framework preset: **Hugo**
+- Build command: `hugo`
+- Output directory: `public`
+- Production domain: `https://www.dantezulli.ar`
+
+## License
+
+Contenido del sitio: CC BY 4.0.
+Código: MIT (ver [LICENSE](LICENSE)).
