@@ -1,5 +1,5 @@
 +++
-date = "2026-09-27"
+date = "2026-10-09"
 title = "now"
 layout = "page"
 +++
@@ -30,7 +30,7 @@ Es la excusa perfecta para adentrarme en un mundo completamente nuevo, distraerm
 
 ### Libros que estoy leyendo
 
-Actualmente me encuentro leyendo [Hooked](https://www.goodreads.com/book/show/22668729-hooked) de Nyr Eyal, pero mi lista de pendientes no para de crecer, así que si tienen alguna recomendación estaría agradecido de recibirla!
+Actualmente me encuentro leyendo ["Hooked"](https://www.goodreads.com/book/show/22668729-hooked) de Nyr Eyal y "La Guía Boglehead de Inversión", de Taylor Larimore, Mel Lindauer y Michael LeBoeuf, pero mi lista de pendientes no para de crecer, así que si tienen alguna recomendación estaría agradecido de recibirla!
 
 De momento me interesaría leer...
 
