@@ -30,7 +30,7 @@ Es la excusa perfecta para adentrarme en un mundo completamente nuevo, distraerm
 
 ### Libros que estoy leyendo
 
-Actualmente me encuentro leyendo [La Sociedad del Cansancio](https://en.wikipedia.org/wiki/The_Burnout_Society) de Byung-Chul Han, pero mi lista de pendientes no para de crecer, así que si tienen alguna recomendación estaría agradecido de recibirla!
+Actualmente me encuentro leyendo [Hooked](https://www.goodreads.com/book/show/22668729-hooked) de Nyr Eyal, pero mi lista de pendientes no para de crecer, así que si tienen alguna recomendación estaría agradecido de recibirla!
 
 De momento me interesaría leer...
 
